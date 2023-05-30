@@ -4,4 +4,4 @@ PiCoP enables sharing microservices by propagating contexts and routing requests
 This organization aims to promote the implementation of the paper "Protocol-Independent Context Propagation for Sharing Microservices in Multiple Environments".
 
 ## Contact
-@hiroyaonoe
+Please contact Hiroya Onoe ([@hiroyaonoe](https://github.com/hiroyaonoe)). 
